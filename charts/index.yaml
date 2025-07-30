@@ -14,7 +14,7 @@ entries:
       tanzuCategory: service
     apiVersion: v2
     appVersion: 17.5.0
-    created: "2025-07-30T12:10:43.699788684+02:00"
+    created: "2025-07-30T12:44:39.96197265+02:00"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -41,6 +41,6 @@ entries:
     sources:
     - https://github.com/bitnami/charts/tree/main/bitnami/postgresql
     urls:
-    - https://github.com/hardikpatel29/postgresql-chart/postgresql-16.7.15.tgz
+    - https://hardikpatel29.github.io/postgresql-chart/postgresql-16.7.15.tgz
     version: 16.7.15
-generated: "2025-07-30T12:10:43.687963329+02:00"
+generated: "2025-07-30T12:44:39.939595707+02:00"
