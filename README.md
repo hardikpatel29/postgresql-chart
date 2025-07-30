@@ -21,7 +21,7 @@ helm package postgresql --destination charts/
 ### 3. Generate `index.yaml`
 
 ```bash
-helm repo index charts/ --url https://github.com/hardikpatel29/postgresql-chart/
+helm repo index charts/ --url https://hardikpatel29.github.io/postgresql-chart
 ```
 
 ### 4. Move Files to `docs/` Directory
